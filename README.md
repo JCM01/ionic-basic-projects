@@ -2,7 +2,6 @@
 
 Basic projects using Ionic-Angular
 
-![image](https://user-images.githubusercontent.com/57594425/182839094-d11108a9-77a8-4ce5-b4b4-0590e1efa54c.png)
 ![image](https://user-images.githubusercontent.com/57594425/182841718-45bf2072-0b86-4f30-8a60-f77ed80452a0.png)
 
 
